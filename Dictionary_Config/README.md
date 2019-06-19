@@ -8,5 +8,8 @@
 
 ## 语音包
 1. [Lingoes English](http://www.lingoes.cn/download/speech/Lingoes%20English.zip)
-2. [金山词霸 2009 牛津版语音包](https://www.ed2000.com/ShowFile/267937.html)(https://www.ed2000.com/ShowFile/267937.html,https://www.cdsoso.me/page-Nx1Tdya9.html,https://www.cdsoso.me/page-V2854259.html)
+2. [金山词霸 2009 牛津版语音包](https://www.ed2000.com/ShowFile/267937.html)
+ 1. https://www.ed2000.com/ShowFile/267937.html
+ 2. https://www.cdsoso.me/page-Nx1Tdya9.html
+ 3. https://www.cdsoso.me/page-V2854259.html
 
