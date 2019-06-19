@@ -1,0 +1,20 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Development/nodejs/node.exe" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://182.92.101.200/svn/web/mdm" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://182.92.101.200/svn/web/mdm" />
+      </list>
+    </option>
+  </component>
+</application>

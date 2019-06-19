@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="负责的表" type="PLAIN_TEXT" />
+      <mapping pattern="执勤五需求整理(升级sql)" type="PLAIN_TEXT" />
+      <mapping pattern=".DjDevelopApplyController.java.swp" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="emmx" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

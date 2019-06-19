@@ -1,0 +1,328 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Wed, 19 Jun 2019 01:35:08 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="IT新闻">
+      <outline text="国际频道" title="国际频道" type="rss" xmlUrl="http://www.people.com.cn/rss/world.xml" htmlUrl="http://world.people.cn"/>
+      <outline text="ITPUB论坛" title="ITPUB论坛" type="rss" xmlUrl="http://www.itpub.net/forum.php?mod=rss" htmlUrl="http://www.itpub.net/forum.php"/>
+      <outline text="华声时评" title="华声时评" type="rss" xmlUrl="http://bbs.voc.com.cn/rss.php?fid=76" htmlUrl="http://bbs.voc.com.cn/forum-76-1.html"/>
+      <outline text="爱范儿" title="爱范儿" type="rss" xmlUrl="http://www.ifanr.com/feed" htmlUrl="http://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+    </outline>
+    <outline text="财经">
+      <outline text="今日话题 - 雪球" title="今日话题 - 雪球" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hot.xueqiu.com.xml" htmlUrl="http://xueqiu.com/hots/topic"/>
+      <outline text="和讯-今日头条" title="和讯-今日头条" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hexun.com.xml" htmlUrl="http://news.hexun.com/"/>
+      <outline text="唐书房" title="唐书房" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/clouds70.weixin.xml" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E5%94%90%E4%B9%A6%E6%88%BF"/>
+      <outline text="摸鱼小组" title="摸鱼小组" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/moyuxiaozu.weixin.xml" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E6%91%B8%E9%B1%BC%E5%B0%8F%E7%BB%84"/>
+      <outline text="中国日报: 财经" title="中国日报: 财经" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/caijing.chinadaily.xml" htmlUrl="http://caijing.chinadaily.com.cn/node_1119884.htm"/>
+      <outline text="毛有话说" title="毛有话说" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mao-talk.weixin.xml" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E6%AF%9B%E6%9C%89%E8%AF%9D%E8%AF%B4"/>
+      <outline text="中金在线" title="中金在线" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/cnfol-com.weixin.xml" htmlUrl="http://yiding.9.cn/ac/143"/>
+      <outline text="财经频道" title="财经频道" type="rss" xmlUrl="http://www.people.com.cn/rss/finance.xml" htmlUrl="http://finance.people.cn"/>
+      <outline text="经济观察网" title="经济观察网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/eeo.xml" htmlUrl="http://www.eeo.com.cn/"/>
+      <outline text="喷嚏网-财经风云" title="喷嚏网-财经风云" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/caijing.dapenti.com.xml" htmlUrl="https://www.dapenti.com/blog/blog.asp?name=caijing"/>
+    </outline>
+    <outline text="独立博客">
+      <outline text="ImportNew" title="ImportNew" type="rss" xmlUrl="http://www.importnew.com/feed" htmlUrl="http://www.importnew.com"/>
+      <outline text="IT牛人博客聚合网站" title="IT牛人博客聚合网站" type="rss" xmlUrl="http://www.udpwork.com/feed" htmlUrl="http://www.udpwork.com/"/>
+      <outline text="软件小子" title="软件小子" type="rss" xmlUrl="http://www.bzdiao.com/feed/" htmlUrl="http://www.bzdiao.com"/>
+      <outline text="MacTalk-池建强的随想录" title="MacTalk-池建强的随想录" type="rss" xmlUrl="http://macshuo.com/?feed=rss2" htmlUrl="http://macshuo.com"/>
+      <outline text="DBA Notes" title="DBA Notes" type="rss" xmlUrl="http://dbanotes.net/feed" htmlUrl="http://dbanotes.net"/>
+      <outline text="极视智库专家——郎咸平" title="极视智库专家——郎咸平" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1092672395.xml" htmlUrl="http://blog.sina.com.cn/jsmedia"/>
+      <outline text="编程随想的博客" title="编程随想的博客" type="rss" xmlUrl="http://feeds2.feedburner.com/programthink" htmlUrl="https://program-think.blogspot.com/" category="政治,IT,时事评论,转载,IT.信息安全,历史,编程,书评/影评,IT.翻墙,IT.软件介绍,政治.真理部,博客通告,心理学,经济,政治.权贵,政治.常识,政治.腐败,学会思考,政治.八卦,职场点滴,政治.法制,管理,IT.业界评论,编程.C,编程.软件工程,政治.共产运动,编程.Java,外交,学习方法,环保,军事,编程.Python,编程.开源项目,编程.架构,编程.多线程,编程.性能优化,IT.Linux,教育,科普,IT.人工智能,编程.算法"/>
+      <outline text="wklken's blog" title="wklken's blog" type="rss" xmlUrl="http://www.wklken.me/feed.xml" htmlUrl="http://www.wklken.me/"/>
+      <outline text="极客公园" title="极客公园" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://main_test.geekpark.net/rss.rss"/>
+      <outline text="新周刊的BLOG" title="新周刊的BLOG" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1224766822.xml" htmlUrl="http://blog.sina.com.cn/xinzhoukan"/>
+      <outline text="Alien外星人" title="Alien外星人" type="rss" xmlUrl="http://www.aliengu.com/feed/" htmlUrl="http://www.aliengu.com/"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="东博书院——孔庆东的博客" title="东博书院——孔庆东的博客" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1198367585.xml" htmlUrl="http://blog.sina.com.cn/kongqd"/>
+      <outline text="极客公园-GeekPark" title="极客公园-GeekPark" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://main_test.geekpark.net/rss.rss"/>
+      <outline text="卢昌海" title="卢昌海" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/changhai.xml" htmlUrl="http://www.changhai.org/"/>
+      <outline text="武志红的BLOG" title="武志红的BLOG" type="rss" xmlUrl="http://blog.sina.com.cn/rss/wuzii.xml" htmlUrl="http://blog.sina.com.cn/wuzii"/>
+      <outline text="電腦玩物" title="電腦玩物" type="rss" xmlUrl="http://feeds.feedburner.com/playpc" htmlUrl="http://www.playpcesor.com/" category="資訊管理與網路工作,網路與數位生活,iPhone,Android App,Android,網站服務與Web2.0,Google 工具與應用,iPad,google chrome,電腦疑難問題QA,Firefox Thunderbird,iOS,影音編輯與播放freeware,電腦遊戲心得評論,網路瀏覽與應用freeware,桌面優化與應用freeware,檔案管理與編輯freeware,系統調校與安全freeware,evernote,時間管理,工作效率,facebook,google地圖,雲端工作,Gmail,行動工作,android遊戲,更新回顧與綜論雜談,Blog部落格工具與應用,google maps,Google Drive,iPhone 遊戲 App,修圖軟體,iPad 遊戲 App,自助旅行,免費軟體,evernote 教學,生活習慣,筆記術,Google 日曆,google+,筆記技巧,專案管理,google相簿,上傳下載檔案,Android桌面,GTD,新聞App,twitter,Dropbox,旅遊景點,時間技客,Apple Mac OS X,youtube,免費防毒軟體,待辦事項,台灣旅遊,照片特效,雲端硬碟,RPG遊戲,生活駭客,養成好習慣,Firefox 4,簡報設計,筆記 App,免費圖庫,免費學英文,照片上傳,零碎時間,Firefox,Google 雲端硬碟,免費下載,優質時間的練習,協同合作,心智圖軟體,lifehack,windows 8,網路安全,閱讀器app,電子書,日本旅遊,專案管理軟體,整理術,英文翻譯,製作圖表,圖庫素材,Trello,microsoft office,Evernote 整理術,Google Inbox by Gmail,Google calendar,Google 表單,google now,專注力,待辦清單,Google試算表,手機拍照,簡報範本,資訊安全,音樂播放器,Google街景,Windows 10,出國旅行,習慣力,資料收集法,資訊圖表,Chrome 分頁,Google 簡報,免費向量圖庫,即時通,文書編輯,歷史教學,稍後閱讀,行事曆同步,CHromebook,Google docs,macOS,繪圖軟體,自助旅行 App,介面設計,剪貼簿,早起習慣,背單字,Office,google keep,網頁設計,Google 文件,adobe air,google search,opera,修圖 App,相機 app,線上免費音樂,習慣養成 App,螢幕錄影,記帳軟體,Android離線,Excel 圖表,feedly,影片剪輯軟體,手寫筆記,流程圖軟體,番茄鐘工作法,Google翻譯,古典音樂,圖片設計,子彈筆記法,會議記錄,海報設計,生活實驗,生產力,知識管理,視覺圖表,Chrome OS,LINE,Macbook Air,google 翻譯,圖表工作術,統計圖表,線上問卷調查,遊戲app,遊戲化,郵件 App,Google hangouts,icon 圖示,健康管理,英文發音,運動健身 app,中文輸入法,宣傳海報設計,心智圖,插圖圖庫,數位教學資源,注音輸入法,試算表,onenote,去背 photoshop,手機桌布,拍照 app,晨間計畫,會議紀錄,益智遊戲,英文文法,讀書筆記,中文學習,免費螢幕錄影軟體,公車路線,子彈筆記術,導航軟體,掃描軟體,日記 App,網頁擷取,Mac OS X Yosemite,RSS訂閱,Windows Mobile PDA手機,dropbox 教學,地理教學,看板管理法,進攻型行事曆,G Suite,Google地圖導航,Google離線,Windows,facebook 即時通,outlook,免費視訊聊天,免費貼圖,大人的學習,導航王,年終整理術,截圖軟體,收納整理方法,線上影片,語音輸入,電腦桌布,DM設計,PDF Reader,chromecast,gps定位,名片掃描,寫作技巧,手寫輸入,數位工作新思維,智能助理,桌遊,知識庫,科學教育,簡報器,美食餐廳,雲端列印,Excel 範本,Google 工作表,ICON,LINE電腦版,android 解鎖,iOS 8,不專心,中文語音輸入,免費音樂下載,室內設計,帳號密碼,手機定位追蹤,提醒軟體,睡眠音樂,美工圖庫,視訊會議軟體,語音辨識,轉PDF,Microsoft,OCR,Steam,XMind,iOS 11,九宮格思考術,免費聽音樂 App,免費遊戲,內容行銷,共用相簿,協同教學,原型設計軟體,商務郵件,圖像思考,圖片壓縮,圖片編輯軟體,寫日記,影像處理軟體,影片轉檔,心智圖方法,晨型人,理財計畫,網路行銷,英文聽力,英語教學,藝術展覽,表情符號,表格思考,遠端桌面,Google earth 地球,Google 離線,OCR 中文辨識,google 圖片搜尋,google搜尋 知識圖譜,icloud,九宮格筆記法,圖片去背,天氣預報,導航 App,工作分心,我的地圖,手機傳檔,無紙化,照片編輯軟體,簡化工作術,系統思考,網頁表格,網頁遊戲,線上免費表格製作,線上免費資料庫,記帳方法,遠端控制,還原備份,P2P傳檔,PDF轉Word,PPT 教學,Slack,flipboard,google play store,pushbullet,工程計算機,手機螢幕錄影,數學教學,照片去背,玩遊戲學寫程式,第二大腦,藝文活動資訊,行銷宣傳圖,語音轉文字,遠端遙控,閱讀方法,高效率學習,AI,Chrome 新分頁,Evernote子彈筆記術,Galaxy Nexus,Google Play 電影,Google 個人助理,flickr,google reader,instagram,powerpoint,skype,spotify,sunrise calendar,家庭日曆,手帳,手繪筆記,拖延,機器學習,照片拼貼組合,網頁版型,自動化,自然教學,規劃行程,讀書心得,開車旅行,音效素材,Android投影,LINE詐騙,gif 動畫,iOS 10,mp3轉檔,telegram,兩步驟驗證,冒險遊戲,冥想音樂,台灣餐廳,圖片素材,報名表,寫程式,寫論文軟體,康乃爾筆記,影片製作軟體,微軟,掃描 App,方格筆記本,書籤管理員,機票比價,甘特圖,筆記紙列印,策略遊戲,線上PDF,育兒工具,舒壓音樂,計畫範本,選色器,配色表,錄音軟體,閱讀習慣,離線地圖,3D 軟體,Acer Chromebook,Adobe ID,Android桌面小工具,EPUB 電子書,Google 協作平台,Google 相機,Google聯絡人,Google語音,IFTTT,OK Google,OneDrive,Paper,google 備份與同步處理,iPhone 8,pocket,skitch,todoist,windows phone,word,免安裝軟體,免費字型,免費字體,分頁群組,卡路里計算器,合併列印,向量繪圖,咖啡館,商務英文,圖片標註,圖片註解,孩子成長日記,家庭,家庭安全,密碼管理軟體,思考模型,情緒管理,手機省電,手機空間清理,放鬆音樂,日記範本,清空收件匣,瀏覽器,火車時刻表,白噪音,短網址產生器,程式碼編輯器,筆記內頁列印,純文字編輯器,色彩設計,英文寫作,音樂節奏遊戲,養成早起習慣,鬧鐘軟體,Android 5.0,Anki教學,Apple地圖,Firefox Quantum,Gboard,Google Sites,Google Tasks,Google 助理,Google 新聞,Google 智慧助理,Google 注音輸入法,Google 航班,Google通訊錄,QR Code 產生器,iOS 12,iPhone 輸入法,yahoo,中文詞典,免費 Wi-Fi,免費影片素材,公車到站時刻表,公車到站時間,刺客教條,創客教育,古蹟,圖像化,地圖圖表,基隆,壓縮網路流量,室內裝潢,打國際電話,新手父母,時間記錄,時間軸,時間追蹤,桌面便利貼,樂譜製作軟體,模擬城市,檔案救援,比價王,注意力,減肥App,獨立遊戲,獨立音樂,看影片學英文,簡訊詐騙,線上訂房,縮圖軟體,縮時攝影,色碼表,計步器,記帳 App,離線 App,食物熱量表,首頁綁架,360度全景,Apple Music,Apple TV,BT Download,BT 軟體,Excel,Exchange,Facebook Lite,Google Allo,Google Play 圖書,Google 短網址,Google縮網址,HDR,KKBOX,LINE貼圖,LOGO 設計,Live Photo,Netflix,PDF轉檔,Photoshop 筆刷,Siri,adobe,blogger,evernote food,facebook home,iPhone iPad 投影,keynote 教學,photoshop 外掛,picasa,quip,to-do,wunderlist,世界地圖圖檔,世界盃足球賽,中文手寫辨識,休息提醒軟體,停車位,儲蓄計劃,克服拖延,免費打電話,免費空間,冥想 App,分帳 App,即時翻譯,台灣老照片,國家地理,國文教學,圖片轉檔,地圖圖庫,塔防遊戲,大數據,天氣預報App,客運時刻表,家庭定位器,寒假計畫,寶寶成長記錄,廉價航空,廣告圖片,廣播電台,微電影,快樂科學,感恩日記,手機垃圾清理,手機詐騙,手機遺失,放鬆 App,文字學,新媒體,新手爸媽,新酷音輸入法,斷捨離,日語學習,星際大戰,書法字體,會議室預約,桌面便條紙,極簡風,樂譜下載,樞紐分析表,清理磁碟,滑鼠手勢,睡眠週期,科幻遊戲,網路漫畫,線上白板,練習休息,舒壓 App,表情貼圖,製作時間軸,覆盤,語音筆記,超級瑪莉歐,辨識花草植物,錄音筆,閃卡製作,電話詐騙,音樂專輯封面,颱風動態,1Password,3D 列印,Android 7.0,Android L,Android桌布,Apple Watch,Apple 地圖,Duolingo,Google Classroom,Google Glass,Google Lens,Google Pixel,Google Pixel 3,Google Saves,Google Stars,Google Trips,Google forms,Google 繪圖,Google自訂搜尋,HabitRPG,JANDI,LOGO 產生器,Line for iPad,PTT,Photoshop 材質,TED Talks,Whoscall,XMind ZEN,Yahoo 奇摩新聞,YouTube2倍加速播放,app,cubie messenger,dropbox 中文,evernote work chat,facebook 社團,firefox os,google assistant,iPhone google 同步,iPhone iPad 錄影,iPhone 通訊錄,iPhone 鍵盤,instapaper,iwork,lastpass,mp3下載,notion,pinterest,skydrive,teamviewer,五線譜教學,京都自由行,人臉辨識,來電答鈴,倉頡輸入法,個人知識管理,個人首頁,倒數日,假新聞,傳送回條,共用行事曆,分頁管理,刺客教條起源,匯率換算,卡片製作,台灣假期,台灣國產遊戲,台灣快遞,合成照,咖啡沖煮器具,問題,單位換算,單車 App,國道客運,圖片放大,地點提醒,大富翁遊戲,家庭共用,履歷格式範本,履歷表,年表製作,恐怖遊戲,慢電視 Slow TV,戰略遊戲,手機截圖,手機桌面圖示,手機鈴聲,拆帳 App,播放軟體,故宮博物院,教學影片,教材,數位教材,數位簽名,數位遺產繼承,數學教材,數學計算技巧,文明帝國,旅館比價,時區換算,景深相機,朗讀螢幕,東京迪士尼,條碼製作器,汽車油耗保養記錄App,測速照相 App,測驗卷,照片放大,破解密碼,社群小編,移除程式,空氣污染,童書,維基百科,網站,線上修圖,線上影片下載,考試準備,職場工作術,自拍,螢幕鎖定,解壓縮軟體,觸控板手勢,記事本,記帳城市,記憶練習 APP,貼圖,賞花,購物網,賽車遊戲,足跡 App,通話錄音,速讀軟體,連拍相機,錄音App,開始功能表,間隔記憶法,雲端傳真,電話錄音,食譜,黑膠唱片,2015行事曆,2017行事曆,2018行事曆,4G LTE,8頁小書,AR,AirPlay,AirTable,Android 6.0,Android Auto,Android wear,Android模擬器,Android裝置管理員,Asana,Aviary,Brainstorm,Chrome App Launcher,Coworking Space,EQ等化器,ERP,FIFA,GOG,GR II,Gmail 外掛程式,Gmail 離線,Google Alerts,Google Analytics,Google Fit,Google Hangouts Chat,Google Messenger,Google News,Google Play 書報攤,Google Spaces,Google takeout,Google 快訊,Google 時間軸,Google 智慧鏡頭,Google 眼鏡,Google 雲端硬碟檔案串流,HTC One M8,HTC Power To Give,Hangouts Meet,IE,IKEA家具,Image Map,Imgur,LINE 拍貼,LibreOffice,MWC,Mac OS X El Capitan,Meme瀰因,New Surface Pro,Nokia Here 地圖,PDCA,PDF 編輯軟體,Plague Inc,Planescape Torment,Plants vs. Zombies 2,RAW檔,RWD,RescueTime,Roguelike,Samgsung Galaxy S5,Send Anywhere,SketchUp,Summons Board 召喚圖板,Super Mario Run,Sway,Team Fortress 2,Texpand,VPN,VR 導覽,VSCO Cam,Vim,Vivaldi,VoiceTube,WWDC,WeChat,Wi-Ho,Windows Ink,Windows10,Windows快捷列,Yelp,Youtube截圖,Zapier,Zoho notebook,amazon appstore,apple ID,appshopper app,avast antivirus,bioshock,ccleaner,cities skylines,clip art,facebook messenger,fences,fez,flash遊戲,googl,google cloud print,google duo,google one,google photos,hackmd,handoff,iOS 9,iOS 9.3,ingress,keepass,lightroom,m,markdown,minecraft,msn,omnifocus,photoshop,podcast,pokemon go,quicktime player,safari,scrum,soundcloud,spotlight,swype,today calendar,toggl,tripadvisro,typeform,webtoon,whatsapp,yahoo mail,三貂嶺古道,世界地球日,中文文字雲,交叉路口,佛羅倫斯,來電黑名單,俄羅斯方塊,倒數計時,假期症候群,免費學日文,免費資料救援軟體,兒童練習本,兒童習作,共同工作空間,共筆,勇者鬥惡龍,化學實驗,博物館,卡坦島,卡通頭像,參考文獻格式,可穿戴式裝置,台北捷運,台語發音,合併列印郵件,哆啦A夢,哲學,唱片封面,國定假日,國道高速公路路況查詢,圍棋 App,圖書館,基隆客運,夜視模式,大頭貼,威尼斯,學生工具,宅急便查詢,定位點,家庭電影院,寵物臉孔辨識,射擊遊戲,尋找我的裝置,小畫家3D,巨集,已讀不回,平溪深澳支線,年度文章精選,年度目標,年度計畫,影片速讀,微型投影機,微軟翻譯,心跳過快過慢,恢復格式化,恢復記憶卡,悠遊卡,憤怒鳥,應用鎖,懶人包,成長心態,扁平化圖示,手機成癮,手機記憶體加速,手機遙控器,手機長截圖,抗藍光,排程寄信,插畫圖片,摺紙勞作,播客,撿便宜,收心,敏捷方法,數位溫情,數據動畫圖,文字替代,日本料理,明信片製作,易讀性,星空 App,智慧型,暑假計畫,有聲書,查詢海拔高度,查詢經緯度座標,條碼掃描器App,棒球遊戲,植物大戰殭屍 2,樂高積木,模擬器,檔案搜尋,正念 App,歷史地圖,氣泡瀏覽器,氣象預報,浮水印製作,測量 App,漢字科普,爐石戰記,特殊符號,玩物影評,瑪利歐,瑪利歐賽車,生前契約,生活,甲骨文,異域鎮魂曲,瘟疫公司,療癒 App,神奇寶貝,禪,科普文章,空氣品質,立體書,符號圖案,等公車App,策展人,箱根,簡單的力量,精實畫布,精靈寶可夢GO,紀念碑谷,紓壓 App,純文字貼上,統一發票,網站測速,線上學鋼琴,線上考卷,罐頭訊息,義大利,翻牆,翻轉教室,老建築,考古題,聯絡人,腦力激盪法,自律,自行車道,自造者,英文文法檢查軟體,著色畫,蒙恬筆,蘆之湖,蝙蝠俠,街機遊戲,親子活動,觀星 App,記憶體管理,詩詞學習,誠品會員,課程表 App,課表 App,資訊焦慮,資訊爆炸,購物清單,走路散步,超級瑪利歐跑酷,身後事,辨識動物,辨識昆蟲,辨識鳥類,農曆,通勤族,遊戲串流,遊戲列,運動音樂,部落衝突,郵件回條,郵件簽名檔,錄音檔轉文字,開車 App,關閉自動更新,陰陽師,雲海,雲端教室,電子報,電影原聲帶,音,音樂素材下載,頭腦風暴法,顏色設計,高鐵WiFI,高雄捷運,鼻頭角步道,龍族拼圖"/>
+    </outline>
+    <outline text="计算机技术">
+      <outline text="51CTO运维经验 工具" title="51CTO运维经验 工具" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=545" htmlUrl="http://os.51cto.com/col/545"/>
+      <outline text="聊聊架构" title="聊聊架构" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/archtime.weixin.xml" htmlUrl="http://chuansong.me/account/archtime"/>
+      <outline text="程序人生" title="程序人生" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/programmer_life.weixin.xml" htmlUrl="http://www.iwgc.cn/list/17"/>
+      <outline text="架构师之路" title="架构师之路" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/gh_10a6b96351a9.weixin.xml" htmlUrl="http://chuansong.me/account/gh_10a6b96351a9"/>
+      <outline text="ITeye论坛最新讨论" title="ITeye论坛最新讨论" type="rss" xmlUrl="http://www.iteye.com/rss/forum" htmlUrl="http://www.iteye.com"/>
+      <outline text="机器之心" title="机器之心" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/almosthuman2014.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2329"/>
+      <outline text="Android Weekly Archive Feed" title="Android Weekly Archive Feed" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
+      <outline text="前端之巅" title="前端之巅" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/frontshow.weixin.xml" htmlUrl="http://yiding.9.cn/ac/3710"/>
+      <outline text="51CTO移动开发" title="51CTO移动开发" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=583" htmlUrl="http://mobile.51cto.com"/>
+      <outline text="并发编程网 - ifeve.com" title="并发编程网 - ifeve.com" type="rss" xmlUrl="http://ifeve.com/feed/" htmlUrl="http://ifeve.com"/>
+      <outline text="图灵访谈" title="图灵访谈" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ituring_interview.weixin.xml" htmlUrl="http://chuansong.me/account/ituring_interview"/>
+      <outline text="开源研究_博客园|网站分类" title="开源研究_博客园|网站分类" type="rss" xmlUrl="http://feed.cnblogs.com/blog/sitecateogry/opensource/rss"/>
+      <outline text="51CTO开发" title="51CTO开发" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=460" htmlUrl="http://developer.51cto.com"/>
+      <outline text="51CTO网络频道" title="51CTO网络频道" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=481" htmlUrl="http://network.51cto.com"/>
+      <outline text="The Android Arsenal" title="The Android Arsenal" type="rss" xmlUrl="http://android-arsenal.com/rss.xml" htmlUrl="http://android-arsenal.com/rss.xml"/>
+      <outline text="51CTO热点推荐" title="51CTO热点推荐" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=1533" htmlUrl="http://developer.51cto.com/col/1533"/>
+      <outline text="开发者头条" title="开发者头条" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/toutiao.io.xml" htmlUrl="http://toutiao.io/"/>
+      <outline text="GFW BLOG（功夫网与翻墙）" title="GFW BLOG（功夫网与翻墙）" type="rss" xmlUrl="http://www.chinagfw.org/feeds/posts/default" htmlUrl="http://www.chinagfw.org/" category="anti-censorship,翻墙动态,Internet control,anti-censorship campaign,Internet censorship,notices,GFW,翻墙,VPN,blog,Tor,foreign countries,self-censorship,BBS,Social Critic,close,lawsuits,Internet censorship research,翻墙资源,China Internet Research,Proxies,翻墙观察,Civil Society Communication,Internet dissent,harmful information,online public opinion,website registration,internet police,Participatory Media Handbook,Citizen Media Law,SSH,anti-censorship research,online porn,IDC,real name registration,censorware,Guangdong,government officials,online activism,ShadowSocks,delete,网络安全,digital security,google,publishing,rumors,Psiphon,block,propaganda,技术剖析,UltraSurf,科学上网,netizens' voices,Internet commentator,Hotspot Shield,cell phone,detention,universities,Freegate,Internet politics,YouTube,key words,School,Twitter,online video,审查,bloggers,internet cafes,GFW资源,online culture,wordpress,Blogger,GPass,Guizhou,大事记,Du Dongjin,news site,教程,censored,Beijing,新闻审查,citizen journalism,from Renren,unblock,防火墙,netizens,email,sina,GFW新闻,SMS,Shandong,安全,Afghanistan,Sichuan,chinatelecom,lawyers,wiki,xiamen,隐私,Henan,MII,lawsuits research,Burma,GAPP,academics,defamation,foreign IT companies,Chinese government,Chongqing,IPV6,Shan Zhidong,baidu,filtering,ss,AlwaysVPN,Internet human rights declaration,Jap,Shanxi,Zan Aizong,Zhejiang,Zuola,media controls,Chinese leaders,Du Daobin,GTunnel,Iran,Jiang Huanwen,Linkideo,Liu Xiaoyuan,Putty,V2Ray,Your Freedom,cctv,flickr,gladder,photo,reports,sohu,视频,Drupal,Fujian,IM,Internet growth,Jiangsu,Yahoo,Yemen,Yunnan,libel,youth,技术,Epoch Times,FirePhoenix,Freenet,GFW汇总,Hunan,QQ,SARFT,Shanghai,Skype,Tibet,Xinjiang,Zhang Yuanxin,屏蔽,工具,浏览器,China Mobile,IPv9,Inner Mongolia,Online Organizing,Saudi Arabia,Search Engines,Shaanxi,Shadowrocket,Shi Tao,中国数字时代,加密,匿名,汇总,翻墙工具与技术大事记,自由,2018,Anhui,Audio,Cisco,DNS,Hainan,He Depu,Internet Society,Lian Yue,Liang hui,Lu Gengsong,MPS,Microsoft,Tianwang,Turkey,Zhang Jianping,book,books,democracy,free speech,internet language,mapping,privacy,ubuntu,历史纪录,微信,方滨兴,浏览器插件,Australia,Cai Mingzhao,Chen Shuqing,Culture Revolution,Egypt,GFW评论,Gansu,Gaotang,Guo Qizhen,Harbin Institute of Technology,Hebei,Hu Jintao,Hubei,IPFS,Internet law,Jiangxi,KeePass,Li Jian,Liaoning,Pakistan,Participatory Media Research,Shi Zhao,Taiwan,Wang Haiyang,Yang Jinzhu,Yao Jian,Yilishen,ZeroNet,book banning,ecomomy,from Xiaonei,gaming,hosts,poisoned milk,安装教程,微博,微软,操作系统,翻墙问答,路由器,50 Cents Party,BandwagonHost,CNNIC,CentOS,DigitalOcean,GFW教程,Github,Green Internet,Han Han,Hao Wu,IPR,India,Isaac Mao,Jilin,Lantern,Li Jianping,Li Yuanlong,Linux,Liu Binjie,MOE,Mac,MediaWiki,Morocco,Nart Villeneuve,Openwrt,P2P,Potatso,Qin Zhongfei,Surge,United States,Web-at-Risk,Wen Jiabao,Xi Guohua,Yang Tongyan,Yang Zaixin,Yitahutu,Zhang Lin,Zhao Lianhai,corruption,iPhone翻墙,ios,law,socksv5,videos,互联网管理,信息安全,删除,搜索,敏感词,树莓派,百度云盘,监控,网上义务监督员,网信办,美国,翻墙事件大事记,谷歌浏览器,Ai Weiwei,Android,BTsync,Cai Lujun,China Netcom,China Tietong,China Unicom,Chrome,Ciphire,Docker,Eraser,Finland,Firefox,GFW分析,GFW问答,GIMP,Global Voices Advocacy,Guangxi,Guo Qinghai,Guo Quan,Hu Jia,Huang Qi,Huang Wanli,HyperApp,ISP,Internet TV,Ireland,Israel,JanusVM,Li Xinde,Li Yuan,Li Zhi,Liu Yunshan,Lu Xinhua,Luo Yongzhong,MSN,Mao Zedong,Ministry of Culture,NGO-in-a-box,Ningxia,OpenNet Initiative,Paper Bus,Proxifier,RSS,RSS订阅,Ran Yunfei,SSR,ShadowsocksR,Shenzhen,Singapore,Thailand,TrueCrypt,Tudou,UK,WYWZ,WeChat,Wifi,Windows10,WireGuard,ZeroNet，教程,Zhang Jianhong,Zhang Yihe,Zheng Yichun,app,blogbus,bullog,censorship,facebook,free trade,from qzone,goagent,iOS翻墙,information revolution,international relationship,ipsec,kcptun,l2tp,movie censorship,news censorship,online TV,online forum,overseas Chinese,pptp,sanxia,tools,unnatural death in China,vps,websites,下载,中国,中文,中文版,互联网,亚马逊,俄罗斯,免费,劫持,历史,原理,可信计算,台湾,大事件,存储,密码,开源,搭建,政府,敏感词库,新闻,新闻出版署,月报,服务器,树莓,泄密,泄露,火狐,环球时报,白名单,百度,监管,硬件,编程随想,网站,网络,网络隐私,翻墙技术,蓝灯,证书,谷歌,贸易,鲁炜,黑客,A.GIG.T,ASUS,Apple,Azure,Bahrain,Banana Pi R1,Bob Dylan,CA,CCP,Canada,Chat Rooms,China Satcom,Chinese pens,ChnRoute,DNSCrypt,DNSProxy,EasyPi,EasytimeTV,EdgeRouterX,ExpressVPN,Feng Zhenghu,Freedur,GFW内容征集,GPG,Germany,Gogo,Google Cloud,Google Drive,GreatFire.org,HTTPS,He weifang,Hexo,Hexun,Hong Kong,Hu Qiheng,Huang Jinqiu,Hyper,I2P,I2Pd,Infranet,Internet addiction,Internet voting,Japan,Jiang Yaoping,Jinan,June 4th,Kenya,Keso,Kindle,Kino,Kodachi,Lanten,Li Baozhong,Li Dawei,Li Qinhua,Linode,Martus,OTA,Onion Routing,Opera,PAC,Paas,Password Safe,Pokemon Go,Poland,Proxy,Publius,Relakks,Ren Ziyuan,SCIO,SNI,SSL,SetupVPN,ShadowRay,Shanxi brick kiln,SocksCap64,Speedplus,Squid,Streisand,Stunnel,Surge for Mac,TLS,Tails,Telegram,The Untraceable Surfer,TheCthulhu,Tian'an Men,Tianjin,Tianya,Tox,Tunisia,Tunnello,USSR,Ubuntu Unleashed,VPN-WS,VpnGate,Wang Xiaofeng,Wang Xiaoning,Websocket,Whonix,WinEvsys,Windows,WoSign,XeroBank Browser,Xici,Xu Wanping,Yan Jun,Yan Zhengxue,Yang ZhiZhu,Yi Xiaobing,Zhou Yuanzhi,art censorship,banned websites,blogcn,china,dante,economic reform,from tianya,google plus 帐号,google plus账户,google reader,goproxy,iPad翻墙,internet,lightsword,minganci,mistress,msocks,nationalism,netcom,one- child policy,online comments,online games,political prisoners,political reform,pollution,press censorship,public participation,squidproxy,state secrets,technorati,virtual property,wireshark,xSocks,zhenli bu,zmirror,一月,中国政府，Windows10,中国浏览器,中国网安协会,中科院,中韩,云梯,互联网自由,付费,代理,代理服务器,优劣,保护,免费墙,全局代理,公众号,分答,北京,十一月,十二月,十月,千里马,华尔街日报,协议,印刷,去中心化,反向代理,反审查,反投毒,叫停,可能吧,合法性,同步,哈尔滨工业大学,回归,国产,土豆丝,圣战,地穴寓言,域名,外企,太子党,媒体,安装,审议,客户数据,密钥交换,封锁,小米,小粉红,局域网,工信部，,工商总局,巴基斯坦,开发,影梭,徐麟,手机,扩展程序,技巧,推特,插件,搬瓦工,搭建服务器,摄像头,数字世界,数字生活,数据泄露,新浪微博搜索,无界,晒客,智能路由器,暗网,朋友圈,朝鲜,木马,极路由,梯子,模块化,污染,沃通,测试,深网,游戏,源码,炎黄春秋,特殊管理股,电子产品,病毒,研究项目,禁言,科学上网用,秘密搜查,突破内网,算法,纽约时报,维基百科,网关,网络加速,网络空间安全,网络自由,自媒体,自我审查,自由之家,舆论导向,艾未未,萤火虫,被封,订阅,记录,评测,越南,越狱,软件,输入法,辩护,过滤,透明度,邮件,重庆,链接,间谍软件,麦克风"/>
+      <outline text="移动开发前线" title="移动开发前线" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/bornmobile.weixin.xml" htmlUrl="http://yiding.9.cn/ac/4132"/>
+      <outline text="微软研究院AI头条" title="微软研究院AI头条" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/MSRAsia.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2341"/>
+      <outline text="博客 - 伯乐在线" title="博客 - 伯乐在线" type="rss" xmlUrl="http://blog.jobbole.com/feed/" htmlUrl="http://blog.jobbole.com/"/>
+      <outline text="C++_博客园|网站分类" title="C++_博客园|网站分类" type="rss" xmlUrl="http://feed.cnblogs.com/blog/sitecateogry/cpp/rss"/>
+      <outline text="细说云计算" title="细说云计算" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/CloudNote.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2896"/>
+      <outline text="Antonio Leiva" title="Antonio Leiva" type="rss" xmlUrl="http://antonioleiva.com/feed/" htmlUrl="http://antonioleiva.com"/>
+    </outline>
+    <outline text="精选">
+      <outline text="乌云装扮者" title="乌云装扮者" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/daclods.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1615"/>
+      <outline text="连岳" title="连岳" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ilianyue.weixin.xml" htmlUrl="http://www.iwgc.cn/list/386"/>
+      <outline text="南都周刊" title="南都周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nbweekly.weixin.xml" htmlUrl="http://www.iwgc.cn/list/180"/>
+      <outline text="深夜惊奇 - 知乎日报" title="深夜惊奇 - 知乎日报" type="rss" xmlUrl="http://zhihurss.miantiao.me/section/id/1" htmlUrl="https://daily.zhihu.com/"/>
+      <outline text="吴晓波频道" title="吴晓波频道" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wuxiaobopd.weixin.xml" htmlUrl="http://yiding.9.cn/ac/118"/>
+      <outline text="新世相" title="新世相" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/thefair2.weixin.xml" htmlUrl="http://www.iwgc.cn/list/1120"/>
+      <outline text="果壳网" title="果壳网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/Guokr42.weixin.xml" htmlUrl="http://yiding.9.cn/ac/657"/>
+      <outline text="可能吧" title="可能吧" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/knbknb.weixin.xml" htmlUrl="http://chuansong.me/account/knbknb"/>
+      <outline text="韩寒·一个" title="韩寒·一个" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wufazhuce.com.xml" htmlUrl="http://wufazhuce.com/"/>
+      <outline text="忽悠" title="忽悠" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/huyoudeyuanli.weixin.xml" htmlUrl="http://chuansong.me/account/huyoudeyuanli"/>
+      <outline text="澎湃新闻" title="澎湃新闻" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/thepapernews.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1586"/>
+      <outline text="caoz的梦呓" title="caoz的梦呓" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/caozsay.weixin.xml" htmlUrl="http://www.iwgc.cn/list/355"/>
+      <outline text="看理想" title="看理想" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ikanlixiang.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2767"/>
+      <outline text="MacTalk" title="MacTalk" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/sagacity-mac.weixin.xml" htmlUrl="http://www.iwgc.cn/list/1"/>
+      <outline text="丁香园论坛最新讨论" title="丁香园论坛最新讨论" type="rss" xmlUrl="http://www.dxy.cn/bbs/rss/2.0/all.xml" htmlUrl="http://www.dxy.cn/bbs"/>
+      <outline text="水木社区 电脑技术区十大热门话题" title="水木社区 电脑技术区十大热门话题" type="rss" xmlUrl="http://www.newsmth.net/rssi.php?h=2&amp;s=9" htmlUrl="http://www.newsmth.net/frames.html"/>
+      <outline text="鲤伴" title="鲤伴" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/carpwith.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1033"/>
+      <outline text="喷嚏网-铂程斋" title="喷嚏网-铂程斋" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/xilei.dapenti.com.xml" htmlUrl="https://www.dapenti.com/blog/blog.asp?name=xilei"/>
+      <outline text="不二大叔" title="不二大叔" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dashu259.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1020"/>
+      <outline text="罗辑思维" title="罗辑思维" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/luojisw.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2376"/>
+      <outline text="Knowyourself" title="Knowyourself" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/knowyourself2015.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1332"/>
+      <outline text="华尔街见闻" title="华尔街见闻" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wallstreetcn.weixin.xml" htmlUrl="http://yiding.9.cn/ac/142"/>
+      <outline text="becase" title="becase" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mxtx8023.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1929"/>
+      <outline text="keso怎么看" title="keso怎么看" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/kesoview.weixin.xml" htmlUrl="http://www.iwgc.cn/list/5767"/>
+      <outline text="丁香医生" title="丁香医生" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml" htmlUrl="http://www.iwgc.cn/list/11"/>
+      <outline text="数字尾巴" title="数字尾巴" type="rss" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" htmlUrl="http://www.dgtle.com"/>
+      <outline text="股社区" title="股社区" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/gushequ.weixin.xml" htmlUrl="http://chuansong.me/account/gushequ"/>
+      <outline text="界面" title="界面" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wowjiemian.weixin.xml" htmlUrl="http://chuansong.me/account/wowjiemian"/>
+      <outline text="小道消息" title="小道消息" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/WebNotes.weixin.xml" htmlUrl="http://www.iwgc.cn/list/2"/>
+      <outline text="warfalcon" title="warfalcon" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/read01.weixin.xml" htmlUrl="http://yiding.9.cn/ac/394"/>
+      <outline text="华尔街日报·派" title="华尔街日报·派" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wsjpie.weixin.xml" htmlUrl="http://www.iwgc.cn/list/7850"/>
+      <outline text="腾讯·大家" title="腾讯·大家" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dajia.qq.com.xml" htmlUrl="http://dajia.qq.com/article_lists.htm"/>
+      <outline text="中国日报: 资讯" title="中国日报: 资讯" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/world.chinadaily.xml" htmlUrl="http://world.chinadaily.com.cn/node_1072266.htm"/>
+      <outline text="新民说iHuman" title="新民说iHuman" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/xinminshuo.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1564"/>
+      <outline text="喷嚏网----阅读、发现和分享：8小时外的健康生活！" title="喷嚏网----阅读、发现和分享：8小时外的健康生活！" type="rss" xmlUrl="http://www.dapenti.com/blog/rss2.asp" htmlUrl="http://www.dapenti.com"/>
+      <outline text="槽边往事" title="槽边往事" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/bitsea.weixin.xml" htmlUrl="http://www.iwgc.cn/list/26"/>
+      <outline text="环球科学" title="环球科学" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ScientificAmerican.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/HEggKaocwN"/>
+      <outline text="开源实验室" title="开源实验室" type="rss" xmlUrl="http://www.kymjs.com/feed.xml" htmlUrl="http://www.kymjs.com/"/>
+      <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/zhihu-daily.xml" htmlUrl="http://news-at.zhihu.com/api/4/stories/latest?client=0"/>
+      <outline text="老道消息" title="老道消息" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/laodaoxx.weixin.xml" htmlUrl="http://www.iwgc.cn/list/5973"/>
+      <outline text="人物" title="人物" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/renwumag1980.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1452"/>
+      <outline text="果壳网:热点" title="果壳网:热点" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hot.guokr.com.xml" htmlUrl="http://www.guokr.com/scientific/channel/hot/"/>
+      <outline text="卢昌海-1" title="卢昌海-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/changhai.xml" htmlUrl="http://www.changhai.org/"/>
+      <outline text="三联生活周刊" title="三联生活周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/lifeweek.weixin.xml" htmlUrl="http://www.iwgc.cn/list/99"/>
+      <outline text="热点推荐" title="热点推荐" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=1549" htmlUrl="http://mobile.51cto.com/col/1549"/>
+      <outline text="南方周末" title="南方周末" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hot.infzm.com.xml" htmlUrl="http://www.infzm.com/"/>
+      <outline text="毛球" title="毛球" type="rss" xmlUrl="http://api.maoqiuapp.com/rss.xml" htmlUrl="http://maoqiuapp.com"/>
+      <outline text="阑夕" title="阑夕" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/techread.weixin.xml" htmlUrl="http://chuansong.me/account/techread"/>
+      <outline text="知识分子" title="知识分子" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/The-Intellectual.weixin.xml" htmlUrl="http://chuansong.me/account/The-Intellectual"/>
+    </outline>
+    <outline text="科学">
+      <outline text="果壳网:热点-1" title="果壳网:热点-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hot.guokr.com.xml" htmlUrl="http://www.guokr.com/scientific/channel/hot/"/>
+    </outline>
+    <outline text="其它">
+      <outline text="简书" title="简书" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/jianshu.com.xml" htmlUrl="http://jianshu.com/"/>
+    </outline>
+    <outline text="软硬件、App">
+      <outline text="驱动之家新闻" title="驱动之家新闻" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mydrivers.xml" htmlUrl="http://news.mydrivers.com/"/>
+      <outline text="Engadget 中国版" title="Engadget 中国版" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/cn.engadget.com.xml" htmlUrl="http://cn.engadget.com/"/>
+    </outline>
+    <outline text="生活">
+      <outline text="豆瓣热门精选" title="豆瓣热门精选" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/interest.douban.xml" htmlUrl="https://www.douban.com/interest/1/1/"/>
+      <outline text="中国日报: 专栏" title="中国日报: 专栏" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/column.chinadaily.xml" htmlUrl="http://column.chinadaily.com.cn/index.php"/>
+      <outline text="喷嚏网-铂程斋-1" title="喷嚏网-铂程斋-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/xilei.dapenti.com.xml" htmlUrl="https://www.dapenti.com/blog/blog.asp?name=xilei"/>
+      <outline text="好奇心日报" title="好奇心日报" type="rss" xmlUrl="http://www.qdaily.com/feed" htmlUrl="http://www.qdaily.com/"/>
+      <outline text="NO Ping West (搞笑)" title="NO Ping West (搞笑)" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/no-ping-west.xml" htmlUrl="http://no.pingwest.com/"/>
+      <outline text="文怡心厨房" title="文怡心厨房" type="rss" xmlUrl="http://blog.sina.com.cn/rss/wenyi.xml" htmlUrl="http://blog.sina.com.cn/wenyi"/>
+      <outline text="瞎扯 - 知乎日报" title="瞎扯 - 知乎日报" type="rss" xmlUrl="http://zhihurss.miantiao.me/section/id/2" htmlUrl="https://daily.zhihu.com/"/>
+      <outline text="ACGdoge" title="ACGdoge" type="rss" xmlUrl="http://www.acgdoge.net/feed/atom" htmlUrl="http://www.acgdoge.net/"/>
+      <outline text="煎蛋" title="煎蛋" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/jiandan.net.xml" htmlUrl="http://jandan.net/"/>
+      <outline text="小木虫 科研资料" title="小木虫 科研资料" type="rss" xmlUrl="http://muchong.com/bbs/rss.php?fid=300" htmlUrl="http://emuch.net/bbs/forumdisplay.php?fid=300"/>
+      <outline text="《意林》杂志" title="《意林》杂志" type="rss" xmlUrl="http://blog.sina.com.cn/rss/yilinzazhi.xml" htmlUrl="http://blog.sina.com.cn/yilinzazhi"/>
+    </outline>
+    <outline text="外媒">
+      <outline text="纽约时报: 国际纵览" title="纽约时报: 国际纵览" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/main.cn-nytimes.xml" htmlUrl="http://cn.nytimes.com/"/>
+      <outline text="FT中文网:十大热门文章" title="FT中文网:十大热门文章" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hotstoryby7day.ftchinese.com.xml" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="纽约时报: 国际生活" title="纽约时报: 国际生活" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/style.cn-nytimes.xml" htmlUrl="http://cn.nytstyle.com/"/>
+      <outline text="WebMD Health" title="WebMD Health" type="rss" xmlUrl="http://rssfeeds.webmd.com/rss/rss.aspx" htmlUrl="http://www.webmd.com/"/>
+      <outline text="FT中文网:今日焦点" title="FT中文网:今日焦点" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/news.ftchinese.com.xml" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="环球科学（科学美国人）" title="环球科学（科学美国人）" type="rss" xmlUrl="http://blog.sina.com.cn/rss/sciam.xml" htmlUrl="http://blog.sina.com.cn/sciam"/>
+      <outline text="BBC 中国" title="BBC 中国" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/cn-bbc.xml" htmlUrl="http://www.bbcchinese.com/"/>
+      <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://feeds.kinja.com/lifehacker/vip" htmlUrl="http://lifehacker.com"/>
+      <outline text="华尔街日报" title="华尔街日报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/cn-all.wsj.xml" htmlUrl="http://cn.wsj.com/gb/archive.asp"/>
+      <outline text="FT中文网 - 双语阅读" title="FT中文网 - 双语阅读" type="rss" xmlUrl="http://www.ftchinese.com/rss/diglossia" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="Washington Post: Breaking News, World, US, DC News &amp; Analysis" title="Washington Post: Breaking News, World, US, DC News &amp; Analysis" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/homepage" htmlUrl="http://www.washingtonpost.com?wprss=rss_homepage"/>
+      <outline text="FT中文网:生活时尚" title="FT中文网:生活时尚" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/lifestyle.ftchinese.com.xml" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="FT中文网_英国《金融时报》(Financial Times)" title="FT中文网_英国《金融时报》(Financial Times)" type="rss" xmlUrl="http://www.ftchinese.com/rss/feed" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="FT中文网 - 生活时尚" title="FT中文网 - 生活时尚" type="rss" xmlUrl="http://www.ftchinese.com/rss/lifestyle" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="FT中文网:每日更新" title="FT中文网:每日更新" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/feed.ftchinese.com.xml" htmlUrl="http://www.ftchinese.com/"/>
+    </outline>
+    <outline text="微信公众号">
+      <outline text="BetterRead" title="BetterRead" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/BetterRead.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1545"/>
+      <outline text="不二大叔-1" title="不二大叔-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dashu259.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1020"/>
+      <outline text="21世纪经济报道" title="21世纪经济报道" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/jjbd21.weixin.xml" htmlUrl="http://yiding.9.cn/ac/128"/>
+      <outline text="央视财经" title="央视财经" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/cctvyscj.weixin.xml" htmlUrl="http://chuansong.me/account/cctvyscj"/>
+      <outline text="意林" title="意林" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/yilinzazhi.weixin.xml" htmlUrl="http://yiding.9.cn/ac/644"/>
+      <outline text="华尔街见闻-1" title="华尔街见闻-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wallstreetcn.weixin.xml" htmlUrl="http://yiding.9.cn/ac/142"/>
+      <outline text="国家人文历史" title="国家人文历史" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/gjrwls.weixin.xml" htmlUrl="http://chuansong.me/account/gjrwls"/>
+      <outline text="阑夕-1" title="阑夕-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/techread.weixin.xml" htmlUrl="http://chuansong.me/account/techread"/>
+      <outline text="虎嗅网" title="虎嗅网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/huxiu_com.weixin.xml" htmlUrl="http://yiding.9.cn/ac/165"/>
+      <outline text="吴晓波频道-1" title="吴晓波频道-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wuxiaobopd.weixin.xml" htmlUrl="http://yiding.9.cn/ac/118"/>
+      <outline text="王左中右" title="王左中右" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/iiiidea.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1536"/>
+      <outline text="理想岛" title="理想岛" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/lixiangdao002.weixin.xml" htmlUrl="http://chuansong.me/account/lixiangdao002"/>
+      <outline text="南方周末-1" title="南方周末-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nanfangzhoumo.weixin.xml" htmlUrl="http://www.iwgc.cn/list/479"/>
+      <outline text="参考消息" title="参考消息" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ckxxwx.weixin.xml" htmlUrl="http://yiding.9.cn/ac/17"/>
+      <outline text="东哥解读电商" title="东哥解读电商" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dgjdds.weixin.xml" htmlUrl="http://chuansong.me/account/dgjdds"/>
+      <outline text="澎湃新闻-1" title="澎湃新闻-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/thepapernews.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1586"/>
+      <outline text="歪理邪说" title="歪理邪说" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wxieshuo.weixin.xml" htmlUrl="http://chuansong.me/account/wxieshuo"/>
+      <outline text="经济观察报" title="经济观察报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/eeo-com-cn.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2019"/>
+      <outline text="华尔街日报·派-1" title="华尔街日报·派-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wsjpie.weixin.xml" htmlUrl="http://www.iwgc.cn/list/7850"/>
+      <outline text="科技美学" title="科技美学" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/kejimx.weixin.xml" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E7%A7%91%E6%8A%80%E7%BE%8E%E5%AD%A6"/>
+      <outline text="三表龙门阵" title="三表龙门阵" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/sanbiao1984.weixin.xml" htmlUrl="http://chuansong.me/account/sanbiao1984"/>
+      <outline text="东方财富网" title="东方财富网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/eastmoneynews.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1852"/>
+      <outline text="书单来了" title="书单来了" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/shudanlaile.weixin.xml" htmlUrl="http://chuansong.me/account/shudanlaile"/>
+      <outline text="小道消息-1" title="小道消息-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/WebNotes.weixin.xml" htmlUrl="http://www.iwgc.cn/list/2"/>
+      <outline text="占豪" title="占豪" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/zhanhao668.weixin.xml" htmlUrl="http://yiding.9.cn/ac/11"/>
+      <outline text="南都周刊-1" title="南都周刊-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nbweekly.weixin.xml" htmlUrl="http://www.iwgc.cn/list/180"/>
+      <outline text="Spenser" title="Spenser" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/spenserandhk.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1691"/>
+      <outline text="新华网" title="新华网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/newsxinhua.weixin.xml" htmlUrl="http://yiding.9.cn/ac/39"/>
+      <outline text="keso怎么看-1" title="keso怎么看-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/kesoview.weixin.xml" htmlUrl="http://www.iwgc.cn/list/5767"/>
+      <outline text="MacTalk-1" title="MacTalk-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/sagacity-mac.weixin.xml" htmlUrl="http://www.iwgc.cn/list/1"/>
+      <outline text="商业周刊中文版" title="商业周刊中文版" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/businessweek.weixin.xml" htmlUrl="http://www.iwgc.cn/list/178"/>
+      <outline text="科学人" title="科学人" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/scientific_guokr.weixin.xml" htmlUrl="http://chuansong.me/account/scientific_guokr"/>
+      <outline text="人民网" title="人民网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/people_rmw.weixin.xml" htmlUrl="http://yiding.9.cn/ac/12"/>
+      <outline text="李银河" title="李银河" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/liyinhe6666.weixin.xml" htmlUrl="http://chuansong.me/account/liyinhe6666"/>
+      <outline text="新世相-1" title="新世相-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/thefair2.weixin.xml" htmlUrl="http://www.iwgc.cn/list/1120"/>
+      <outline text="知音" title="知音" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/zhiyinchuanmei.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2163"/>
+      <outline text="丁香医生-1" title="丁香医生-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml" htmlUrl="http://www.iwgc.cn/list/11"/>
+      <outline text="新民说iHuman-1" title="新民说iHuman-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/xinminshuo.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1564"/>
+      <outline text="老道消息-1" title="老道消息-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/laodaoxx.weixin.xml" htmlUrl="http://www.iwgc.cn/list/5973"/>
+      <outline text="每日经济新闻" title="每日经济新闻" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nbdnews.weixin.xml" htmlUrl="http://yiding.9.cn/ac/124"/>
+      <outline text="十点读书" title="十点读书" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/duhaoshu.weixin.xml" htmlUrl="http://chuansong.me/account/duhaoshu"/>
+      <outline text="界面-1" title="界面-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wowjiemian.weixin.xml" htmlUrl="http://chuansong.me/account/wowjiemian"/>
+      <outline text="知识分子-1" title="知识分子-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/The-Intellectual.weixin.xml" htmlUrl="http://chuansong.me/account/The-Intellectual"/>
+      <outline text="新京报书评周刊" title="新京报书评周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ibookreview.weixin.xml" htmlUrl="http://yiding.9.cn/ac/3558"/>
+      <outline text="可能吧-1" title="可能吧-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/knbknb.weixin.xml" htmlUrl="http://chuansong.me/account/knbknb"/>
+      <outline text="第一财经周刊" title="第一财经周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/CBNweekly2008.weixin.xml" htmlUrl="http://www.iwgc.cn/list/303"/>
+      <outline text="睡前故事板" title="睡前故事板" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dropasleep.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/nH2fmpZzLg"/>
+      <outline text="乌云装扮者-1" title="乌云装扮者-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/daclods.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1615"/>
+      <outline text="读库小报" title="读库小报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dukuxiaobao.weixin.xml" htmlUrl="http://www.iwgc.cn/list/6455"/>
+      <outline text="洞见" title="洞见" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/DJ00123987.weixin.xml" htmlUrl="http://chuansong.me/account/DJ00123987"/>
+      <outline text="人人都是产品经理" title="人人都是产品经理" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/woshipm.weixin.xml" htmlUrl="http://chuansong.me/account/woshipm"/>
+      <outline text="用心骂人" title="用心骂人" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/yongxinmaren.weixin.xml" htmlUrl="http://chuansong.me/account/yongxinmaren"/>
+      <outline text="人民日报" title="人民日报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/rmrbwx.weixin.xml" htmlUrl="http://chuansong.me/account/rmrbwx"/>
+      <outline text="单读" title="单读" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dandureading.weixin.xml" htmlUrl="http://www.iwgc.cn/list/227"/>
+      <outline text="侠客岛" title="侠客岛" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/xiake_island.weixin.xml" htmlUrl="http://chuansong.me/account/xiake_island"/>
+      <outline text="中国国家地理" title="中国国家地理" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dili360.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/eHDXEt5cdV"/>
+      <outline text="caoz的梦呓-1" title="caoz的梦呓-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/caozsay.weixin.xml" htmlUrl="http://www.iwgc.cn/list/355"/>
+      <outline text="HUGO" title="HUGO" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/microhugo.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1023"/>
+      <outline text="忽悠-1" title="忽悠-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/huyoudeyuanli.weixin.xml" htmlUrl="http://chuansong.me/account/huyoudeyuanli"/>
+      <outline text="腾讯科技" title="腾讯科技" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/qqtech.weixin.xml" htmlUrl="http://weixin.sogou.com/weixin?type=1&amp;s_from=input&amp;query=%E8%85%BE%E8%AE%AF%E7%A7%91%E6%8A%80"/>
+      <outline text="新浪体育" title="新浪体育" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/sports_sina.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1922"/>
+      <outline text="黑蓝" title="黑蓝" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/heilanwenxue.weixin.xml" htmlUrl="http://yiding.9.cn/ac/10246"/>
+      <outline text="连岳-1" title="连岳-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ilianyue.weixin.xml" htmlUrl="http://www.iwgc.cn/list/386"/>
+      <outline text="槽边往事-1" title="槽边往事-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/bitsea.weixin.xml" htmlUrl="http://www.iwgc.cn/list/26"/>
+      <outline text="脑洞故事板" title="脑洞故事板" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ndgs233.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/MdYLTeEqU4"/>
+      <outline text="warfalcon-1" title="warfalcon-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/read01.weixin.xml" htmlUrl="http://yiding.9.cn/ac/394"/>
+      <outline text="一个one" title="一个one" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/one1ge.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1203"/>
+      <outline text="香港凤凰周刊" title="香港凤凰周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/phoenixweekly.weixin.xml" htmlUrl="http://chuansong.me/account/phoenixweekly"/>
+      <outline text="Knowyourself-1" title="Knowyourself-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/knowyourself2015.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1332"/>
+      <outline text="简书-1" title="简书-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/jianshuio.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1237"/>
+      <outline text="电商报" title="电商报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/kandianshang.weixin.xml" htmlUrl="http://chuansong.me/account/kandianshang"/>
+      <outline text="六神磊磊读金庸" title="六神磊磊读金庸" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dujinyong6.weixin.xml" htmlUrl="http://chuansong.me/account/dujinyong6"/>
+      <outline text="经济学人" title="经济学人" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/theeconomist.weixin.xml" htmlUrl="http://www.iwgc.cn/list/174"/>
+      <outline text="读小库" title="读小库" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/duxiaoku666.weixin.xml" htmlUrl="http://yiding.9.cn/ac/13684"/>
+      <outline text="故事贩卖机" title="故事贩卖机" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/storymachine.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/sa79G0C7uc"/>
+      <outline text="铁血军事" title="铁血军事" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/tiexuejunshi.weixin.xml" htmlUrl="http://yiding.9.cn/ac/13"/>
+      <outline text="环球科学-1" title="环球科学-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ScientificAmerican.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/HEggKaocwN"/>
+      <outline text="真实故事计划" title="真实故事计划" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/zhenshigushi1.weixin.xml" htmlUrl="http://chuansong.me/account/zhenshigushi1"/>
+      <outline text="医学界" title="医学界" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/yixuejiezazhi.weixin.xml" htmlUrl="http://chuansong.me/account/yixuejiezazhi"/>
+      <outline text="虹膜" title="虹膜" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/IrisMagazine.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1334"/>
+      <outline text="新智元" title="新智元" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/AI_era.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2332"/>
+      <outline text="历史研习社" title="历史研习社" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mingqinghistory.weixin.xml" htmlUrl="http://chuansong.me/account/mingqinghistory"/>
+      <outline text="糗事百科" title="糗事百科" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/qiubai2005.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1000"/>
+      <outline text="Vista看天下" title="Vista看天下" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/vistaweek.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1250"/>
+      <outline text="becase-1" title="becase-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mxtx8023.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1929"/>
+      <outline text="罗辑思维-1" title="罗辑思维-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/luojisw.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2376"/>
+      <outline text="人物-1" title="人物-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/renwumag1980.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1452"/>
+      <outline text="果壳网-1" title="果壳网-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/Guokr42.weixin.xml" htmlUrl="http://yiding.9.cn/ac/657"/>
+      <outline text="环球时报" title="环球时报" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hqsbwx.weixin.xml" htmlUrl="http://yiding.9.cn/ac/18"/>
+      <outline text="布尔费墨" title="布尔费墨" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/buerfeimo.weixin.xml" htmlUrl="http://chuansong.me/account/buerfeimo"/>
+      <outline text="DeepTech深科技" title="DeepTech深科技" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mit-tr.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2352"/>
+      <outline text="财新网" title="财新网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/caixinwang.weixin.xml" htmlUrl="http://chuansong.me/account/caixinwang"/>
+      <outline text="魔宙" title="魔宙" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mzmojo.weixin.xml" htmlUrl="http://chuansong.me/account/mzmojo"/>
+      <outline text="三联生活周刊-1" title="三联生活周刊-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/lifeweek.weixin.xml" htmlUrl="http://www.iwgc.cn/list/99"/>
+      <outline text="有书" title="有书" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/youshucc.weixin.xml" htmlUrl="http://yiding.9.cn/ac/609"/>
+      <outline text="鲤伴-1" title="鲤伴-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/carpwith.weixin.xml" htmlUrl="http://yiding.9.cn/ac/1033"/>
+      <outline text="银教授吐槽" title="银教授吐槽" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/yinjiaoshou886.weixin.xml" htmlUrl="http://chuansong.me/account/yinjiaoshou886"/>
+      <outline text="大象公会" title="大象公会" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/idxgh2013.weixin.xml" htmlUrl="http://www.iwgc.cn/list/160"/>
+      <outline text="译言" title="译言" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/yeeyancom.weixin.xml" htmlUrl="http://chuansong.me/account/yeeyancom"/>
+      <outline text="地球知识局" title="地球知识局" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/diqiuzhishiju.weixin.xml" htmlUrl="http://www.jintiankansha.me/column/60djo5sOF5"/>
+      <outline text="半月谈" title="半月谈" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/banyuetan-weixin.weixin.xml" htmlUrl="http://chuansong.me/account/banyuetan-weixin"/>
+      <outline text="股社区-1" title="股社区-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/gushequ.weixin.xml" htmlUrl="http://chuansong.me/account/gushequ"/>
+      <outline text="长安街知事" title="长安街知事" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/capitalnews.weixin.xml" htmlUrl="http://chuansong.me/account/capitalnews"/>
+      <outline text="看理想-1" title="看理想-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ikanlixiang.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2767"/>
+      <outline text="看历史" title="看历史" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/EYEONHISTORY.weixin.xml" htmlUrl="http://chuansong.me/account/EYEONHISTORY"/>
+      <outline text="咪蒙" title="咪蒙" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mimeng7.weixin.xml" htmlUrl="http://chuansong.me/account/mimeng7"/>
+      <outline text="棱镜" title="棱镜" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/lengjing_qqfinance.weixin.xml" htmlUrl="http://chuansong.me/account/lengjing_qqfinance"/>
+      <outline text="丁香妈妈" title="丁香妈妈" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/DingXiangMaMi.weixin.xml" htmlUrl="http://yiding.9.cn/ac/718"/>
+      <outline text="局座召忠" title="局座召忠" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/zhangzhaozhong45.weixin.xml" htmlUrl="http://yiding.9.cn/ac/659"/>
+    </outline>
+    <outline text="文学">
+      <outline text="平民视野" title="平民视野" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1258463770.xml" htmlUrl="http://blog.sina.com.cn/shihanbing"/>
+      <outline text="左岸读书" title="左岸读书" type="rss" xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn"/>
+      <outline text="心理发展与教育-CNKI" title="心理发展与教育-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLFZ&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+      <outline text="豆瓣: 经典短篇阅读" title="豆瓣: 经典短篇阅读" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/group_classicreading.douban.xml" htmlUrl="http://www.douban.com/group/classicreading/discussion"/>
+      <outline text="心理学探新-CNKI" title="心理学探新-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLXT&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+      <outline text="腾讯·大家-1" title="腾讯·大家-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dajia.qq.com.xml" htmlUrl="http://dajia.qq.com/article_lists.htm"/>
+      <outline text="心理科学进展-CNKI" title="心理科学进展-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLXD&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+      <outline text="心理学报-CNKI" title="心理学报-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLXB&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+      <outline text="青年文摘" title="青年文摘" type="rss" xmlUrl="http://blog.sina.com.cn/rss/qnwzlb.xml" htmlUrl="http://blog.sina.com.cn/qnwzlb"/>
+      <outline text="读写人" title="读写人" type="rss" xmlUrl="http://www.duxieren.com/duxieren.xml" htmlUrl="http://www.duxieren.com/"/>
+      <outline text="心理与行为研究-CNKI" title="心理与行为研究-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=CLXW&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+      <outline text="韩寒·一个-1" title="韩寒·一个-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wufazhuce.com.xml" htmlUrl="http://wufazhuce.com/"/>
+      <outline text="心理科学-CNKI" title="心理科学-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLKX&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+    </outline>
+    <outline text="新闻">
+      <outline text="参考消息：中国" title="参考消息：中国" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.cankaoxiaoxi.xml" htmlUrl="http://china.cankaoxiaoxi.com/"/>
+      <outline text="政见 CNPolitics.org" title="政见 CNPolitics.org" type="rss" xmlUrl="http://cnpolitics.org/feed/" htmlUrl="http://cnpolitics.org"/>
+      <outline text="中国日报: 时政" title="中国日报: 时政" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.chinadaily.xml" htmlUrl="http://china.chinadaily.com.cn/node_1143902.htm"/>
+      <outline text="腾讯新闻：国际" title="腾讯新闻：国际" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/world.qq.com.xml" htmlUrl="http://news.qq.com/world_index.shtml"/>
+      <outline text="腾讯新闻：国内" title="腾讯新闻：国内" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china.qq.com.xml" htmlUrl="http://news.qq.com/china_index.shtml"/>
+      <outline text="观察者网" title="观察者网" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/guancha.xml" htmlUrl="http://www.guancha.cn/"/>
+      <outline text="喷嚏网" title="喷嚏网" type="rss" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=xilei" htmlUrl="http://www.dapenti.com/blog/blog.asp?name=xilei"/>
+      <outline text="南方周末-2" title="南方周末-2" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/hot.infzm.com.xml" htmlUrl="http://www.infzm.com/"/>
+      <outline text="时政频道" title="时政频道" type="rss" xmlUrl="http://www.people.com.cn/rss/politics.xml" htmlUrl="http://politics.people.cn"/>
+      <outline text="参考消息：国际" title="参考消息：国际" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/world.cankaoxiaoxi.xml" htmlUrl="http://world.cankaoxiaoxi.com/"/>
+      <outline text="中国日报: 资讯-1" title="中国日报: 资讯-1" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/world.chinadaily.xml" htmlUrl="http://world.chinadaily.com.cn/node_1072266.htm"/>
+      <outline text="天涯小筑" title="天涯小筑" type="rss" xmlUrl="http://tvfantasy.net/feed/" htmlUrl="http://tvfantasy.net"/>
+      <outline text="参考消息：军事" title="参考消息：军事" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/mil.cankaoxiaoxi.xml" htmlUrl="http://mil.cankaoxiaoxi.com/"/>
+      <outline text="中关村在线新闻中心" title="中关村在线新闻中心" type="rss" xmlUrl="http://rss.zol.com.cn/news.xml" htmlUrl="http://news.zol.com.cn"/>
+      <outline text="澎湃" title="澎湃" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/choice.thepaper.xml" htmlUrl="http://www.thepaper.cn/index_scroll.jsp"/>
+    </outline>
+    <outline text="英语">
+      <outline text="Economist/US Politics" title="Economist/US Politics" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/us-politics.economist.com.xml" htmlUrl="http://www.economist.com/sections/united-states"/>
+      <outline text="Bloomberg" title="Bloomberg" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/bloomberg.xml" htmlUrl="http://www.bloomberg.com/"/>
+      <outline text="美国习惯用语 - UNSV英语学习频道" title="美国习惯用语 - UNSV英语学习频道" type="rss" xmlUrl="http://www.unsv.com/voanews/words-and-idioms/rss/" htmlUrl="http://www.unsv.com/voanews/words-and-idioms/"/>
+      <outline text="Economist/Economics" title="Economist/Economics" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/economics.economist.com.xml" htmlUrl="http://www.economist.com/sections/economics"/>
+      <outline text="中国日报: 双语新闻" title="中国日报: 双语新闻" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/language-news.chinadaily.xml" htmlUrl="http://language.chinadaily.com.cn/news_bilingual.html"/>
+      <outline text="New Yorker: Books &amp; Fiction" title="New Yorker: Books &amp; Fiction" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/books.newyorker.com.xml" htmlUrl="http://www.newyorker.com/books"/>
+      <outline text="TIME" title="TIME" type="rss" xmlUrl="http://feeds2.feedburner.com/time/topstories" htmlUrl="http://time.com/"/>
+      <outline text="Scientific American Podcast: 60-Second Science" title="Scientific American Podcast: 60-Second Science" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/60secsciencepodcast.sciam.xml" htmlUrl="http://www.scientificamerican.com/"/>
+      <outline text="华尔街英语" title="华尔街英语" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/WSE_China.weixin.xml" htmlUrl="http://yiding.9.cn/ac/7743"/>
+      <outline text="New Yorker: News" title="New Yorker: News" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml" htmlUrl="http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml"/>
+      <outline text="Economist/China Politics" title="Economist/China Politics" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/china-politics.economist.com.xml" htmlUrl="http://www.economist.com/sections/china"/>
+      <outline text="Economist/Business &amp; Finance" title="Economist/Business &amp; Finance" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/business-finance.economist.com.xml" htmlUrl="http://www.economist.com/sections/business-finance"/>
+      <outline text="Economist/Science &amp; Technology" title="Economist/Science &amp; Technology" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/science-technology.economist.com.xml" htmlUrl="http://www.economist.com/sections/science-technology"/>
+      <outline text="FT中文网:每日英语" title="FT中文网:每日英语" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/diglossia.ftchinese.com.xml" htmlUrl="http://www.ftchinese.com/"/>
+      <outline text="Sixth Tone" title="Sixth Tone" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/sixthtone.xml" htmlUrl="http://www.sixthtone.com/"/>
+      <outline text="New Yorker: Business" title="New Yorker: Business" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/business.newyorker.com.xml" htmlUrl="http://www.newyorker.com/business"/>
+      <outline text="New Yorker: Culture" title="New Yorker: Culture" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/culture.newyorker.com.xml" htmlUrl="http://www.newyorker.com/culture"/>
+      <outline text="New Yorker: Science &amp; Tech" title="New Yorker: Science &amp; Tech" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/tech.newyorker.com.xml" htmlUrl="http://www.newyorker.com/tech"/>
+      <outline text="New Yorker: Humor" title="New Yorker: Humor" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/humor.newyorker.com.xml" htmlUrl="http://www.newyorker.com/humor"/>
+      <outline text="Economist/Culture" title="Economist/Culture" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/culture.economist.com.xml" htmlUrl="http://feedmaker.kindle4rss.com/feeds/culture.economist.com.xml"/>
+      <outline text="英文杂志" title="英文杂志" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/englishmags.weixin.xml" htmlUrl="http://yiding.9.cn/ac/11921"/>
+    </outline>
+  </body>
+</opml>

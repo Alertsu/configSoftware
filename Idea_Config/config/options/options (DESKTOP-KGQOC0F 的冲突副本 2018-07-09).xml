@@ -1,0 +1,56 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6766712" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.13131976" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="GsonFormat&#10;CodeGlance&#10;JRebel Plugin&#10;Statistic&#10;FindBugs-IDEA" />
+    <property name="SearchEveryWhereHistory" value="“&#10;pu" />
+    <property name="SettingsSearchHistory" value="maven" />
+    <property name="SpringBeansModulesPanel[0]" value="0.13131976" />
+    <property name="android-component-compatibility-check" value="1530148950369" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="eclipse.project.dir" value="E:\SVN\Licence\code\trunk\HJADMIN" />
+    <property name="eclipse.remote.project.storage" value="E:\SVN\Licence\code\trunk\HJADMIN" />
+    <property name="entityPackName" value="com.fh.extinterface.http." />
+    <property name="errorCount" value="0" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="export.settings.path" value="C:\Users\Administrator\Dropbox\idea_setting\settings.jar" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Development/Maven/apache-maven-3.5.2&#10;D:/Development/jetty-distribution-9.4.11.v20180605&#10;E:/Git/zheng/pom.xml&#10;D:/Development/Maven/apache-maven-3.5.2/Repostitory&#10;D:/Development/Maven/apache-maven-3.5.2/conf/settings.xml&#10;E:/SVN/demo/pom.xml&#10;E:/Workspaces/Eclipse2018/test&#10;E:/Workspaces/Eclipse2018/test/.classpath&#10;D:/Development/apache-tomcat-8.0.15vs&#10;E:/SVN/182Web/VS/WebRoot&#10;E:/SVN/182Web/VS/WebRoot/WEB-INF/web.xml&#10;E:/SVN/182Web/VS/WebRoot/WEB-INF/lib&#10;E:/SVN/182Web/VS/WebRoot/WEB-INF/classes&#10;E:/SVN/182Web/VS/.classpath&#10;E:/SVN/Licence/code/trunk/HJADMIN/WebRoot/WEB-INF/lib&#10;E:/SVN/Licence/code/trunk/HJADMIN/WebRoot/WEB-INF&#10;D:/Development/apache-tomcat-8.0.15Licence/webapps/Licence&#10;E:/SVN/Licence/code/trunk/HJADMIN/WebRoot&#10;E:/SVN/Licence/code/trunk/HJADMIN/WebRoot/WEB-INF/web.xml&#10;E:/SVN/Licence/code/trunk/HJADMIN/WebRoot/WEB-INF/classes&#10;E:/SVN/Licence/code/trunk/HJADMIN/.project&#10;E:/SVN/Licence/code/trunk/HJADMIN/.classpath&#10;D:/Development/apache-tomcat-8.0.15mdm/webapps/MDM&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM/WebRoot&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM/WebRoot/WEB-INF/web.xml&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM/WebRoot/WEB-INF/lib&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM/WebRoot/WEB-INF/classes&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM/.classpath&#10;D:/Development/apache-tomcat-8.0.15Licence&#10;E:/SVN/Licence/code/trunk/HJADMIN/HJADMIN.iml" />
+    <property name="file.gist.reindex.count" value="5881" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="generateComments" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="E:/SVN/demo/pom.xml" />
+    <property name="lastTip" value="29" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="reuseEntity" value="false" />
+    <property name="selected.color.option.type" value="PROPERTIES.KEY" />
+    <property name="splitGenerate" value="false" />
+    <property name="suffixStr" value="Bean" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+  </component>
+</application>

@@ -1,0 +1,83 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.91274" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5268817" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.13131976" />
+    <property name="KEYMAP" value="back" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LiveContextsPanel[0]" value="0.13413817" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="Subversion&#10;sub&#10;Memory Analyzer&#10;CheckStyle&#10;Java Stream Debugger" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SearchEveryWhereHistory" value="//插入 中队审批意见 &#9;&#9;&#9;&#9;&#9;requestPD.put(&quot;REQUESTID&quot;,id); &#9;&#9;&#9;&#9;&#9;List&lt;PageData&gt; dbOpinionPD=opinionService.findByRequestId(requestPD);  &#9;&#9;&#9;&#9;&#9;PageData opinionPD=new PageData(); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;REQUESTID&quot;,id); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;OPINIONDATE&quot;,new Date()); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;USERID&quot;,user.getUSER_ID()); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;NAME&quot;,user.getNAME()); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;OPINIONTYPE&quot;,IConst.YES); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;OPINIONTEXT&quot;,null); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;UPORGANIZATIONID&quot;,dbOpinionPD.get(0).getString(&quot;ORGANIZATIONID&quot;)); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;ORGANIZATIONID&quot;,user.getDepartment().getDEPARTMENT_ID()); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;NEXTORGANIZATIONID&quot;,user.getDepartment().getPARENT_ID()); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;ORDERBY&quot;,(Integer.parseInt(dbOpinionPD.get(0).getString(&quot;ORDERBY&quot;))+1)); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;EXTENDFIELD1&quot;,null); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;EXTENDFIELD2&quot;,null); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;EXTENDFIELD3&quot;,null); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;EXTENDFIELD4&quot;,null); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;EXTENDFIELD5&quot;,null); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;CREATETIME&quot;,new Date()); &#9;&#9;&#9;&#9;&#9;opinionPD.put(&quot;OPINION_ID&quot;, UuidUtil.get32UUID()); &#9;&#9;&#9;&#9;&#9;opinionService.save(opinionPD);  &#9;&#9;&#9;&#9;&#9;addUser.put(&quot;STAGE&quot;,IConst.IS_SUBMIT);&#10;phonetrajectory_list&#10;baiduMap.jsp&#10;violate_list.&#10;ViolateController" />
+    <property name="SettingsSearchHistory" value="back&#10;maven&#10;proxy&#10;prox&#10;po" />
+    <property name="SplitFileEditor.Proportion" value="0.20992367" />
+    <property name="SpringBeansModulesPanel[0]" value="0.13131976" />
+    <property name="SpringMvcModulesPanel[0]" value="0.13131976" />
+    <property name="android-component-compatibility-check" value="1559803170598" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="1" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="dir.diff.panel.divider.location" value="81" />
+    <property name="eclipse.project.dir" value="E:\SVN\182Web\mdm\ServerCode\MDMServer\branches\MDM-V2.3_zhiqinwu" />
+    <property name="eclipse.remote.project.storage" value="E:\SVN\182Web\mdm\ServerCode\MDMServer\branches\MDM-V2.3_zhiqinwu" />
+    <property name="entityPackName" value="com.fh.extinterface.http." />
+    <property name="errorCount" value="0" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.181" value="16" />
+    <property name="export.settings.path" value="C:\Users\Administrator\Dropbox\idea_setting\settings.jar" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Development/maven/apache-maven-3.5.3&#10;E:/Git/threadInterview/threadInterview&#10;E:/Git/threadInterview/threadInterview/pom.xml&#10;F:/Git/mall/mall/pom.xml&#10;D:/Cache&#10;D:/&#10;D:/Development/apache-tomcat-8.0.15mdm/webapps/MDM&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu/WebRoot&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu/WebRoot/WEB-INF/web.xml&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu/WebRoot/WEB-INF/lib&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu/.project&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu/.classpath&#10;E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu&#10;E:/Git/cnpcdj/cnpc-dj-business-party-report/pom.xml&#10;E:/Git/cnpcdj/develop/cnpc-dj-business-develop-member/pom.xml&#10;E:/Git/cnpcdj/cnpc-dj-basics/configuration/mvn-settings.xml&#10;E:/Git/cnpcdj/fundamental/cnpc-dj-business-fundamental/configuration/mvn-settings.xml&#10;E:/Git/cnpcdj/cnpc-dj-business-sparktools/configuration/mvn-settings.xml&#10;E:/Development/dj_checkstyle_template.xml&#10;E:/Development/CheckStyle规则文件.xml&#10;E:/Git/cnpcdj/cnpc-dj-business-sparktools/pom.xml&#10;E:/Workspaces/IDEA64/MyBatisGenerator&#10;E:/Workspaces/IDEA64&#10;E:/Git/cnpcdj/fundamental/cnpc-dj-business-fundamental/pom.xml&#10;E:/Git/cnpcdj/cnpc-dj-basics/pom.xml&#10;C:/Users/Administrator/zhongyoudj/both/repository&#10;D:/Development/Maven/apache-maven-3.5.4/bin&#10;D:/Development/Maven/apache-maven-3.5.4&#10;D:/Development/Git/bin/git.exe&#10;C:/Users/Administrator" />
+    <property name="file.gist.reindex.count" value="14765" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="find.popup.splitter" value="0.6739766" />
+    <property name="forkCount" value="4" />
+    <property name="generateComments" value="true" />
+    <property name="ignoreCorePlugin" value="false" />
+    <property name="installed.kotlin.plugin.version" value="1.2.31-release-IJ2018.1-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="E:/Git/threadInterview/threadInterview/pom.xml" />
+    <property name="lastTip" value="164" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="org.intellij.images.editor.actions.SetBackgroundImageDialog#recent" value="" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="reuseEntity" value="false" />
+    <property name="reuseForks" value="true" />
+    <property name="selected.color.option.type" value="PROPERTIES.KEY" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="showPomLocation" value="false" />
+    <property name="splitGenerate" value="false" />
+    <property name="suffixStr" value="Bean" />
+    <property name="ts.lib.d.ts.version" value="2.8.1" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="useSerializedName" value="false" />
+    <property name="virgoMode" value="true" />
+    <property name="withPrefix" value="false" />
+  </component>
+</application>

@@ -1,0 +1,18 @@
+<scheme name="护眼" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-06-16T14:44:09</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-06-16T14:44:18</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="c7edcc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

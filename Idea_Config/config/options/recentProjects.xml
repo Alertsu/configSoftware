@@ -1,0 +1,349 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/Git/threadInterview/threadInterview" />
+        <option value="F:/Git/mall/mall" />
+        <option value="F:/SVN/test" />
+        <option value="D:/Cache" />
+        <option value="E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu" />
+        <option value="E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM" />
+        <option value="E:/Git/cnpcdj/cnpcdjbase" />
+        <option value="E:/Git/zheng/zheng" />
+        <option value="E:/SVN/182Web/VS" />
+        <option value="E:/SVN/Licence/code/trunk/HJADMIN" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/Git/threadInterview/threadInterview" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/Git/threadInterview/threadInterview" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531882352292" />
+              <option name="buildTimestamp" value="1526505747844" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/HJADMIN.iml">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528182145799" />
+              <option name="buildTimestamp" value="1526505732701" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AppData/Local/Temp/MDM.iml">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527749416613" />
+              <option name="buildTimestamp" value="1526505771355" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Cache">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1550330323323" />
+              <option name="buildTimestamp" value="1526505734869" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/cnpcdj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531882060894" />
+              <option name="buildTimestamp" value="1526505747844" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/cnpcdj/cnpc-dj-basics">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531897200813" />
+              <option name="buildTimestamp" value="1526505730961" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/cnpcdj/cnpc-dj-business-party-report">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539153939177" />
+              <option name="buildTimestamp" value="1526505735698" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/cnpcdj/cnpc-dj-business-sparktools">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534744132054" />
+              <option name="buildTimestamp" value="1526505758128" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/cnpcdj/cnpcdjbase">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539567274437" />
+              <option name="buildTimestamp" value="1526505754502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/cnpcdj/fundamental/cnpc-dj-business-fundamental">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531897208509" />
+              <option name="buildTimestamp" value="1526505730961" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/threadInterview/threadInterview">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1559821471738" />
+              <option name="buildTimestamp" value="1526505768653" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/zheng">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530928289574" />
+              <option name="buildTimestamp" value="1526505749556" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/zheng/zheng">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531215604310" />
+              <option name="buildTimestamp" value="1526505730756" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/zhongyoudangjian/cnpc-dj-basics">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531879552553" />
+              <option name="buildTimestamp" value="1526505720997" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Git/zhongyoudangjian/cnpc-dj-business-fundamental">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531879547965" />
+              <option name="buildTimestamp" value="1526505720997" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/182Web/VS">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529997072547" />
+              <option name="buildTimestamp" value="1526505769501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/182Web/mdm/ServerCode/MDMServer/MDM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1539569588635" />
+              <option name="buildTimestamp" value="1526505754502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/182Web/mdm/ServerCode/MDMServer/branches/MDM-V2.3_zhiqinwu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1548646406528" />
+              <option name="buildTimestamp" value="1526505748965" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/Licence/code/tags">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528182118928" />
+              <option name="buildTimestamp" value="1526505732701" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/Licence/code/trunk/HJADMIN">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528787252820" />
+              <option name="buildTimestamp" value="1526505727910" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/MDM/ServerCode/MDMServer/MDM">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528103482746" />
+              <option name="buildTimestamp" value="1526505743669" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/SVN/demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531276931712" />
+              <option name="buildTimestamp" value="1526505735676" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Workspaces/Eclipse2018/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1531722797763" />
+              <option name="buildTimestamp" value="1526505726829" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Workspaces/IDEA64">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534732392918" />
+              <option name="buildTimestamp" value="1526505741843" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Workspaces/IDEA64/MyBatisGenerator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534733512575" />
+              <option name="buildTimestamp" value="1526505741843" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Workspaces/IDEA64/generator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534736699323" />
+              <option name="buildTimestamp" value="1526505758128" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/Workspaces/IDEA64/springtest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1534733776714" />
+              <option name="buildTimestamp" value="1526505758128" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Git/mall/mall">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1556035697777" />
+              <option name="buildTimestamp" value="1526505741824" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/SVN/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-181.5087.20" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1555921012714" />
+              <option name="buildTimestamp" value="1526505746467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="F:/SVN" />
+  </component>
+</application>

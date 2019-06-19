@@ -1,0 +1,75 @@
+<opml version="1.1">
+  <head>
+    <title>FeedDemon Subscriptions</title>
+    <dateModified>Wed, 19 Dec 2018 06:58:47 GMT</dateModified>
+  </head>
+  <body>
+    <outline text="开源实验室" title="开源实验室" type="rss" xmlUrl="http://www.kymjs.com/feed.xml" htmlUrl="http://www.kymjs.com/"/>
+    <outline text="ITPUB论坛" title="ITPUB论坛" type="rss" xmlUrl="http://www.itpub.net/forum.php?mod=rss" htmlUrl="http://www.itpub.net/forum.php"/>
+    <outline text="Trinea" title="Trinea" type="rss" xmlUrl="http://www.trinea.cn/feed/" htmlUrl="http://www.trinea.cn"/>
+    <outline text="喷嚏网" title="喷嚏网" type="rss" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=xilei" htmlUrl="http://www.dapenti.com/blog/blog.asp?name=xilei"/>
+    <outline text="极客公园-GeekPark" title="极客公园-GeekPark" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://main_test.geekpark.net/rss.rss"/>
+    <outline text="51CTO网络频道" title="51CTO网络频道" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=481" htmlUrl="http://network.51cto.com"/>
+    <outline text="小木虫 科研资料" title="小木虫 科研资料" type="rss" xmlUrl="http://muchong.com/bbs/rss.php?fid=300" htmlUrl="http://emuch.net/bbs/forumdisplay.php?fid=300"/>
+    <outline text="科学松鼠会" title="科学松鼠会" type="rss" xmlUrl="http://songshuhui.net/feed" htmlUrl="http://songshuhui.net"/>
+    <outline text="酷壳" title="酷壳" type="rss" xmlUrl="http://www.google.com/?q=coolshell.cn/feed"/>
+    <outline text="新周刊的BLOG" title="新周刊的BLOG" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1224766822.xml" htmlUrl="http://blog.sina.com.cn/xinzhoukan"/>
+    <outline text="FT中文网_英国《金融时报》(Financial Times)" title="FT中文网_英国《金融时报》(Financial Times)" type="rss" xmlUrl="http://www.ftchinese.com/rss/feed" htmlUrl="http://www.ftchinese.com/"/>
+    <outline text="心理学报-CNKI" title="心理学报-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLXB&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+    <outline text="美国习惯用语 - UNSV英语学习频道" title="美国习惯用语 - UNSV英语学习频道" type="rss" xmlUrl="http://www.unsv.com/voanews/words-and-idioms/rss/" htmlUrl="http://www.unsv.com/voanews/words-and-idioms/"/>
+    <outline text="51CTO开发" title="51CTO开发" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=460" htmlUrl="http://developer.51cto.com"/>
+    <outline text="中关村在线新闻中心" title="中关村在线新闻中心" type="rss" xmlUrl="http://rss.zol.com.cn/news.xml" htmlUrl="http://news.zol.com.cn"/>
+    <outline text="SEO" title="SEO" type="rss" xmlUrl="http://www.google.com/?q=www.seozac.com/feed/"/>
+    <outline text="财经频道" title="财经频道" type="rss" xmlUrl="http://www.people.com.cn/rss/finance.xml" htmlUrl="http://finance.people.cn"/>
+    <outline text="热点推荐" title="热点推荐" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=1549" htmlUrl="http://mobile.51cto.com/col/1549"/>
+    <outline text="心理学探新-CNKI" title="心理学探新-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLXT&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+    <outline text="WebMD Health" title="WebMD Health" type="rss" xmlUrl="http://rssfeeds.webmd.com/rss/rss.aspx" htmlUrl="http://www.webmd.com/"/>
+    <outline text="极视智库专家——郎咸平" title="极视智库专家——郎咸平" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1092672395.xml" htmlUrl="http://blog.sina.com.cn/jsmedia"/>
+    <outline text="青年文摘" title="青年文摘" type="rss" xmlUrl="http://blog.sina.com.cn/rss/qnwzlb.xml" htmlUrl="http://blog.sina.com.cn/qnwzlb"/>
+    <outline text="华声时评" title="华声时评" type="rss" xmlUrl="http://bbs.voc.com.cn/rss.php?fid=76" htmlUrl="http://bbs.voc.com.cn/forum-76-1.html"/>
+    <outline text="天涯小筑" title="天涯小筑" type="rss" xmlUrl="http://tvfantasy.net/feed/" htmlUrl="http://tvfantasy.net"/>
+    <outline text="51CTO热点推荐" title="51CTO热点推荐" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=1533" htmlUrl="http://developer.51cto.com/col/1533"/>
+    <outline text="TED中国" title="TED中国" type="rss" xmlUrl="http://www.google.com/?q=www.tedtochina.com/feed/"/>
+    <outline text="毛球" title="毛球" type="rss" xmlUrl="http://api.maoqiuapp.com/rss.xml" htmlUrl="http://maoqiuapp.com"/>
+    <outline text="Android Weekly Archive Feed" title="Android Weekly Archive Feed" type="rss" xmlUrl="http://us2.campaign-archive1.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19" htmlUrl="http://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&amp;id=4eb677ad19"/>
+    <outline text="瞎扯 - 知乎日报" title="瞎扯 - 知乎日报" type="rss" xmlUrl="http://zhihurss.miantiao.me/section/id/2" htmlUrl="https://daily.zhihu.com/"/>
+    <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" xmlUrl="http://www.ruanyifeng.com/blog/atom.xml" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+    <outline text="深夜惊奇 - 知乎日报" title="深夜惊奇 - 知乎日报" type="rss" xmlUrl="http://zhihurss.miantiao.me/section/id/1" htmlUrl="https://daily.zhihu.com/"/>
+    <outline text="水木社区 电脑技术区十大热门话题" title="水木社区 电脑技术区十大热门话题" type="rss" xmlUrl="http://www.newsmth.net/rssi.php?h=2&amp;s=9" htmlUrl="http://www.newsmth.net/frames.html"/>
+    <outline text="平民视野" title="平民视野" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1258463770.xml" htmlUrl="http://blog.sina.com.cn/shihanbing"/>
+    <outline text="软件小子" title="软件小子" type="rss" xmlUrl="http://www.bzdiao.com/feed/" htmlUrl="http://www.bzdiao.com"/>
+    <outline text="Google Blog keyword: zhihurss.miantiao.me/section/id/19" title="Google Blog keyword: zhihurss.miantiao.me/section/id/19" type="rss" xmlUrl="http://www.google.com/?q=zhihurss.miantiao.me/section/id/19"/>
+    <outline text="51CTO运维经验 工具" title="51CTO运维经验 工具" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=545" htmlUrl="http://os.51cto.com/col/545"/>
+    <outline text="时政频道" title="时政频道" type="rss" xmlUrl="http://www.people.com.cn/rss/politics.xml" htmlUrl="http://politics.people.cn"/>
+    <outline text="FT中文网 - 生活时尚" title="FT中文网 - 生活时尚" type="rss" xmlUrl="http://www.ftchinese.com/rss/lifestyle" htmlUrl="http://www.ftchinese.com/"/>
+    <outline text="爱范儿" title="爱范儿" type="rss" xmlUrl="http://www.ifanr.com/feed" htmlUrl="http://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+    <outline text="wklken's blog" title="wklken's blog" type="rss" xmlUrl="http://www.wklken.me/feed.xml" htmlUrl="http://www.wklken.me/"/>
+    <outline text="51CTO移动开发" title="51CTO移动开发" type="rss" xmlUrl="http://www.51cto.com/php/rss.php?typeid=583" htmlUrl="http://mobile.51cto.com"/>
+    <outline text="MacTalk-池建强的随想录" title="MacTalk-池建强的随想录" type="rss" xmlUrl="http://macshuo.com/?feed=rss2" htmlUrl="http://macshuo.com"/>
+    <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="http://feeds.kinja.com/lifehacker/vip" htmlUrl="http://lifehacker.com"/>
+    <outline text="ITeye论坛最新讨论" title="ITeye论坛最新讨论" type="rss" xmlUrl="http://www.iteye.com/rss/forum" htmlUrl="http://www.iteye.com"/>
+    <outline text="四火的唠叨" title="四火的唠叨" type="rss" xmlUrl="http://www.raychase.net/feed" htmlUrl="http://www.raychase.net"/>
+    <outline text="The Android Arsenal" title="The Android Arsenal" type="rss" xmlUrl="http://android-arsenal.com/rss.xml" htmlUrl="http://android-arsenal.com/rss.xml"/>
+    <outline text="东博书院——孔庆东的博客" title="东博书院——孔庆东的博客" type="rss" xmlUrl="http://blog.sina.com.cn/rss/1198367585.xml" htmlUrl="http://blog.sina.com.cn/kongqd"/>
+    <outline text="国际频道" title="国际频道" type="rss" xmlUrl="http://www.people.com.cn/rss/world.xml" htmlUrl="http://world.people.cn"/>
+    <outline text="丁香园论坛最新讨论" title="丁香园论坛最新讨论" type="rss" xmlUrl="http://www.dxy.cn/bbs/rss/2.0/all.xml" htmlUrl="http://www.dxy.cn/bbs"/>
+    <outline text="心理与行为研究-CNKI" title="心理与行为研究-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=CLXW&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+    <outline text="极客公园" title="极客公园" type="rss" xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://main_test.geekpark.net/rss.rss"/>
+    <outline text="Google Blog keyword: zhihurss.miantiao.me/section/id/19-1" title="Google Blog keyword: zhihurss.miantiao.me/section/id/19-1" type="rss" xmlUrl="http://www.google.com/?q=zhihurss.miantiao.me/section/id/19"/>
+    <outline text="数字尾巴" title="数字尾巴" type="rss" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" htmlUrl="http://www.dgtle.com"/>
+    <outline text="心理科学进展-CNKI" title="心理科学进展-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLXD&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+    <outline text="左岸读书" title="左岸读书" type="rss" xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn"/>
+    <outline text="环球科学（科学美国人）" title="环球科学（科学美国人）" type="rss" xmlUrl="http://blog.sina.com.cn/rss/sciam.xml" htmlUrl="http://blog.sina.com.cn/sciam"/>
+    <outline text="Washington Post: Breaking News, World, US, DC News &amp; Analysis" title="Washington Post: Breaking News, World, US, DC News &amp; Analysis" type="rss" xmlUrl="http://feeds.washingtonpost.com/rss/homepage" htmlUrl="http://www.washingtonpost.com?wprss=rss_homepage"/>
+    <outline text="FT中文网 - 双语阅读" title="FT中文网 - 双语阅读" type="rss" xmlUrl="http://www.ftchinese.com/rss/diglossia" htmlUrl="http://www.ftchinese.com/"/>
+    <outline text="心理科学-CNKI" title="心理科学-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLKX&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+    <outline text="DBA Notes" title="DBA Notes" type="rss" xmlUrl="http://dbanotes.net/feed" htmlUrl="http://dbanotes.net"/>
+    <outline text="并发编程网 - ifeve.com" title="并发编程网 - ifeve.com" type="rss" xmlUrl="http://ifeve.com/feed/" htmlUrl="http://ifeve.com"/>
+    <outline text="ImportNew" title="ImportNew" type="rss" xmlUrl="http://www.importnew.com/feed" htmlUrl="http://www.importnew.com"/>
+    <outline text="西红柿" title="西红柿" type="rss" xmlUrl="http://www.google.com/?q=www.chong4.com.cn/feed.php"/>
+    <outline text="《意林》杂志" title="《意林》杂志" type="rss" xmlUrl="http://blog.sina.com.cn/rss/yilinzazhi.xml" htmlUrl="http://blog.sina.com.cn/yilinzazhi"/>
+    <outline text="武志红的BLOG" title="武志红的BLOG" type="rss" xmlUrl="http://blog.sina.com.cn/rss/wuzii.xml" htmlUrl="http://blog.sina.com.cn/wuzii"/>
+    <outline text="Antonio Leiva" title="Antonio Leiva" type="rss" xmlUrl="http://antonioleiva.com/feed/" htmlUrl="http://antonioleiva.com"/>
+    <outline text="心理发展与教育-CNKI" title="心理发展与教育-CNKI" type="rss" xmlUrl="http://rss.cnki.net/grid20/rss.aspx?journal=XLFZ&amp;Virtual=grid20" htmlUrl="http://kns.cnki.net/kcms/detail/"/>
+  </body>
+</opml>
