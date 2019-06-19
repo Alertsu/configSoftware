@@ -3,7 +3,7 @@ shadowsocks的浏览器插件Omega和代理配置的备份文件等
 
 # 使用说明
 ## 1. 获取shadowsocks账号
-### 1. 免费嫖地址(不安全,速度不能保证)
+### 1. 白嫖地址(不安全,速度不能保证)
 1. [1](https://github.com/gfw-breaker/ssr-accounts/blob/master/README.md)
 2. [2](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 3. [3](https://github.com/gfw-breaker/ssr-accounts)
